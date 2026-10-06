@@ -555,3 +555,16 @@ Os prints devem mostrar a requisição realizada e a resposta retornada pela API
 ## 12. Status da atividade
 
 API REST de usuários e autenticação desenvolvida utilizando PHP e Slim Framework, com os endpoints obrigatórios implementados e preparados para testes.
+
+(/[imagens](docs)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162321.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162353.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162404.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162431.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162537.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162618.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162700.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162759.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162829.png>)
+![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162928.png>)
+)
