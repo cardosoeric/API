@@ -556,6 +556,8 @@ Os prints devem mostrar a requisição realizada e a resposta retornada pela API
 
 API REST de usuários e autenticação desenvolvida utilizando PHP e Slim Framework, com os endpoints obrigatórios implementados e preparados para testes.
 
+## 13 imagens
+
 (/[imagens](docs)
 ![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162321.png>)
 ![](<docs/imagens do dia 06.10/Captura de tela 2026-10-06 162353.png>)
